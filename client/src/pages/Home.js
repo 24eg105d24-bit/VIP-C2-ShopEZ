@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-import Navbar from "../components/Navbar";
+//import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 //import SearchBar from "../components/SearchBar";
 import Categories from "../components/Categories";
