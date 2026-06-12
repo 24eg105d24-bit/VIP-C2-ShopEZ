@@ -3,7 +3,7 @@ import axios from "axios";
 
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
-import SearchBar from "../components/SearchBar";
+//import SearchBar from "../components/SearchBar";
 import Categories from "../components/Categories";
 import ProductCard from "../components/ProductCard";
 import Footer from "../components/Footer";

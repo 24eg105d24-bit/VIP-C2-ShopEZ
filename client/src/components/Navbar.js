@@ -77,28 +77,6 @@ function Navbar() {
 
       {/* Search UI */}
 
-      <div
-        style={{
-          flex: 1,
-          maxWidth: "500px",
-          margin: "0 40px"
-        }}
-      >
-
-        <input
-          type="text"
-          placeholder="Search products..."
-          style={{
-            width: "100%",
-            padding: "12px",
-            borderRadius: "8px",
-            border: "none",
-            outline: "none",
-            fontSize: "15px"
-          }}
-        />
-
-      </div>
 
       {/* Navigation */}
 
