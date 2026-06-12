@@ -41,7 +41,6 @@ const [category, setCategory] = useState("All");
 
   return (
     <>
-      <Navbar />
       <Hero />
       <div style={{ padding: "20px" }}>
   <input
